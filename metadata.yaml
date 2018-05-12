@@ -1,0 +1,34 @@
+_repo: A-Voice-of-Warningof-Jesus-Christ-of-Latter-day-Saints_35554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pratt, Parley P. (Parley Parker)
+    aliases:
+    - Pratt, Parley Parker
+    - Pratt, P. P. (Parley Parker)
+    birthdate: 1807
+    deathdate: 1857
+    gutenberg_agent_id: '37697'
+    url: http://www.gutenberg.org/2009/agents/37697
+    wikipedia: http://en.wikipedia.org/wiki/Parley_P._Pratt
+description: ''
+gutenberg_bookshelf:
+- Christianity
+- Latter Day Saints
+gutenberg_issued: '2011-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcc 'BX'
+title: "A Voice of Warning\r\nOr, an introduction to the faith and doctrine of The\
+  \ Church of Jesus Christ of Latter-Day Saints"
+url: http://www.gutenberg.org/ebooks/35554
